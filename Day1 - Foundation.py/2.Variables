@@ -1,0 +1,24 @@
+# Program-1:Print Variables
+
+name = "Raji"
+age = 25
+salary = 50000
+print(name, age, salary)
+
+--Output:
+Raji 25 50000
+
+---------------------------------------------------------
+# Program-2:Explain print variables
+
+name = "Raji"
+age = 25
+food = "Biryani"
+print(name, age, food)
+print("My fav food is Biryani")
+print("Here name, age, salary are variables and Raji, 25, Biryani are values")
+
+--Output:
+Raji 25 Biryani
+My fav food is Biryani
+Here name, age, salary are variables and Raji, 25, Biryani are values
