@@ -1,0 +1,16 @@
+# Program-1: Explain Data Types
+
+name = "Raji" # string(text)
+age = 25 # int(number)
+height = 4.5 # float(decimal)
+is_working = True # boolean(True/False)
+print(name, age, height, is_working)
+print("name, age, height and is_working are variables")
+print("Raji, 25, 4.5 and True are values")
+print("string(text), int(number), float(decimal) and boolean(True/False) are Data Types")
+
+--Output:
+Raji 25 4.5 True
+name, age, height and is_working are variables
+Raji, 25, 4.5 and True are values
+string(text), int(number), float(decimal) and boolean(True/False) are Data Types
