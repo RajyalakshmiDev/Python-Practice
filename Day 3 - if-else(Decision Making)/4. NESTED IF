@@ -1,0 +1,11 @@
+--- Def: Nested if means using an if statement inside another if statement(Simply Deep checking)
+
+Program: Check age and salary
+age = 25
+salary = 60000
+if age > 20:
+   if salary > 50000:
+      print("Good Position")
+
+--- Output
+Good Position
