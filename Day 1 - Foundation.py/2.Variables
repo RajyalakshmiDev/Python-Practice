@@ -16,9 +16,9 @@ age = 25
 food = "Biryani"
 print(name, age, food)
 print("My fav food is Biryani")
-print("Here name, age, salary are variables and Raji, 25, Biryani are values")
+print("Here name, age, salary and food are variables and Raji, 25, 50000 and Biryani are values.")
 
 --Output:
 Raji 25 Biryani
 My fav food is Biryani
-Here name, age, salary are variables and Raji, 25, Biryani are values
+Here name, age, salary and food are variables and Raji, 25, 50000 and Biryani are values.
