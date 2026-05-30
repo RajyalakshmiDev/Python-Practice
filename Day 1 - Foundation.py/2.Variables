@@ -8,7 +8,7 @@ print(name, age, salary)
 --Output:
 Raji 25 50000
 
----------------------------------------------------------
+--------------------------------------------------------
 # Program-2:Explain print Variables
 
 name = "Raji"
