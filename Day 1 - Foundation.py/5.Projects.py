@@ -1,6 +1,5 @@
 --Program: Display person details
 --------------------------------------
-
 name = "Raji"
 age = 25
 is_working = True
