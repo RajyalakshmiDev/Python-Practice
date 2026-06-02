@@ -1,5 +1,6 @@
---- Def: A tuple is an ordered collection of items that cannot be changed after creation.
+---- Def: A tuple is an ordered collection of items that cannot be changed after creation.
 
+  
 -- Creating a Tuple
   numbers = (10, 20, 30)
   print(numbers)
